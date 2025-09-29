@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: CoreBiz
-Template URL: https://bootstrapmade.com/corebiz-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+TX Fiber delivers high-speed connectivity, ISP consulting, datacenter colocation, and fiber deployment across Texas with carrier-grade reliability.
